@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#all {
+    width: 700px;
+    height: 1200px;
+    margin: auto;
+}
+
+#dong1 {
+    width: 300px;
+    height: 400px;
+    margin-left: 200px;
+}
+
+#dong2 {
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+}
+
+#dong3 {
+    width: 700px;
+    height: 400px;
+}
+
+.red {
+    background-color: red;
+    height: 100px;
+}
+
+.xam1 {
+    background-color: gray;
+    width: 100px;
+    height: 300px;
+    float: left;
+}
+
+.xam2 {
+    background-color: gray;
+    width: 100px;
+    height: 300px;
+    float: right;
+}

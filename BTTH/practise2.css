@@ -1,0 +1,43 @@
+#all {
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+}
+
+.dong {
+    width: 1000px;
+    height: 200px;
+}
+
+.size {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#tim {
+    background-color: blueviolet;
+}
+
+.white {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-color: white;
+}

@@ -1,0 +1,26 @@
+#all {
+    width: 600px;
+    height: 600px;
+    background-color: rgb(250, 175, 175);
+    margin: auto;
+    /*đẩy tắt cả thành phần vào chính giữa trình duyệt */
+}
+
+.dong {
+    width: 600px;
+    height: 200px;
+}
+
+.xam {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    float: left;
+}
+
+.trang {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    float: left;
+}
